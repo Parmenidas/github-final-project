@@ -1,4 +1,4 @@
-# Project for testing basic Github functinality
+# Project for testing basic Github functionality
 
 A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 
